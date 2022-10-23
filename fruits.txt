@@ -1,4 +1,6 @@
 Strawberry
 Banana
 Melon
-
+Kiwi
+Watermelon
+Grape
